@@ -15,7 +15,7 @@ by helping developers identify and specify quality requirements
 
 SQuaRE incluye cinco divisiones: gestión de calidad, modelo de calidad, medición de calidad, requisitos de calidad y evaluación de calidad (ver tabla 1)
 
-![](2022-12-05/Captura%20de%20pantalla%202022-12-05%20a%20las%2011.52.18.png)
+![](Readme/Captura%20de%20pantalla%202022-12-05%20a%20las%2011.52.18.png)
 
 El modelo del sistema incluye la comunicación de sistemas informáticos, piezas mecánicas y procesos humanos.
 
@@ -29,7 +29,7 @@ Attribute: Report-generation time.
 * Measure: Average number of seconds to gener- 
 ate report X during normal system use, mea- sured 10 times using a stopwatch. 
 
-![](2022-12-05/Captura%20de%20pantalla%202022-12-05%20a%20las%2014.23.45.png)
+![](Readme/Captura%20de%20pantalla%202022-12-05%20a%20las%2014.23.45.png)
 
 
 
@@ -49,7 +49,7 @@ Technical processes constitute a subset of project processes, including
 
 For example, IEEE 830 specifi- cally mentions performance (which isn’t considered a quality feature), reliability, availability, security, maintainability, and portability.2 
 
-![](2022-12-05/Captura%20de%20pantalla%202022-12-05%20a%20las%2014.42.45.png)
+![](Readme/Captura%20de%20pantalla%202022-12-05%20a%20las%2014.42.45.png)
 
 Scope and Objectives 
 Requirements and Recommendations 
